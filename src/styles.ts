@@ -33,8 +33,4 @@ export const Container = styled.div`
     max-width: 80%;
     display: block;
   }
-
-  img {
-    max-width: 100%;
-  }
 `
